@@ -1,0 +1,18 @@
+# Ignore all .docx files
+*.docx
+
+# Ignore Python libraries and folders
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore Java libraries and folders
+# (Adjust these patterns based on your project structure)
+target/
+*.jar
+*.war
+*.ear
+node_modules/
